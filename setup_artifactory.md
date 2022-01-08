@@ -4,7 +4,7 @@ An artifact repository manages your end-to-end artifact lifecycle and supports d
 JFrog Artifactory is a universal DevOps solution providing end-to-end automation and management of binaries and artifacts through the application delivery process that improves productivity across your development ecosystem. It enables freedom of choice supporting 25+ software build packages, all major CI/CD platforms, and DevOps tools you already use.
 
 ## Pre-requisites: 
-1. An AWS T2.small EC2 instance (Linux)
+1. An AWS T2.medium EC2 instance (Linux)
 1. Open port 8081 and 8082 in the security group
 
 ## Installation Steps 
